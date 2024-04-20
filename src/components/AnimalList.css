@@ -1,0 +1,28 @@
+.box1{
+    width: 80vw;
+    height: 156px;
+    list-style: none;
+    text-decoration: none;
+    background-color: #3c4586;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 11px;
+    margin: 8px 0px;
+    
+    justify-content: center;
+}
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24vw;
+    height: 129px;
+}
+.box2{
+    width: 40vw;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}

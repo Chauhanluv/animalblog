@@ -1,0 +1,37 @@
+.body{
+
+    background-color: blanchedalmond;
+}
+.box4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 107vw;
+    height:107vh;
+    flex-direction: column;
+    background-color: blanchedalmond;
+    
+}
+.box5{
+    height: 519px;
+    width: 90vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.box5 p {
+    font-size: 17px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    background-color:#3c4586 ;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+
